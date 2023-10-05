@@ -1,0 +1,53 @@
+Paginas de inspiracion
+
+1. https://kentcdodds.com/discord
+
+2. https://mattfarley.ca/
+
+3. https://www.adhamdannaway.com/portfolio
+
+4. https://www.rammaheshwari.com/  ***DIVICION DE LA PAGINA***
+
+5. https://www.thecraftsmen.tech/
+
+
+
+ESTRUCTURA DE LA PAGINA
+
+------------------------------------------------
+ () portafolio      home about projects contact 
+
+
+
+
+
+ -----------------------------------------------
+                ABOUT ME
+    adwwadinwa          |-----------------|
+    dajwndkjnw          |                 |
+    dajwndkjnw          |                 |
+    dajwndkjnw          |                 |
+    dajwndkjnw          |-----------------|
+
+------------------------------------------------
+
+                SKILLS  
+
+    java js python css angular flutter ionic
+
+------------------------------------------------
+                PROJECTS
+            
+    ///////////                 adwdawdaw
+    ///////////                 adwdawdaw
+    ///////////                 adwdawdaw    
+    ///////////                 adwdawdaw
+
+------------------------------------------------
+                    CONTACT
+
+------------------------------------------------
+
+                    FOOTER
+                    
+------------------------------------------------
