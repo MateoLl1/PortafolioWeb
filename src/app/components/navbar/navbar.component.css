@@ -1,19 +1,39 @@
-nav {
+.contenedor {
   display: flex;
-  width: 100%;
-  background-color: #1c1c1c;
+  justify-content: space-around;
   align-items: center;
-  color: aliceblue;
+  margin: 20px 0;
 }
 
-h3 {
-  width: 50%;
-  text-align: center;
+h1 {
+  font-size: 30px;
+  margin: 0;
+  color: white;
 }
 
-.navbar {
-  width: 50%;
+.navigation {
   display: flex;
-  justify-content: center;
-  gap: 50px;
+  gap: 20px;
+  font-size: 25px;
+}
+
+button {
+  border: none;
+  position: relative;
+  text-decoration: none;
+}
+
+button::before {
+  content: "";
+  position: absolute;
+  width: 0;
+  height: 2px;
+  bottom: 0;
+  left: 0;
+  background-color: white;
+  transition: width 0.3s;
+}
+
+button:hover::before {
+  width: 100%;
 }

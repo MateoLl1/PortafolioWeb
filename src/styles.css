@@ -1,1 +1,18 @@
-/* You can add global styles to this file, and also import other style files */
+@import url("https://fonts.googleapis.com/css2?family=Roboto&family=Ubuntu+Mono&display=swap");
+:root {
+  --dark-mode: #1f2028;
+  --light-mode: #faf0e6;
+  --colorBlack: #b9b4c7;
+  --colorWhite: #ffffff;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: var(--dark-mode);
+  font-family: "Ubuntu Mono";
+  font-size: 30px;
+  color: var(--colorBlack);
+  text-align: center;
+}
